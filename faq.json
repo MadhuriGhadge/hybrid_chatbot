@@ -1,0 +1,1114 @@
+{
+    "faqs": [
+        {
+            "question": "Hi Campusmate",
+            "answer": "hello,How can help you today?"
+        },
+        {
+            "question": "hi",
+            "answer": "Hello! How can I assist you today? 😊"
+        },
+        {
+            "question": "hello",
+            "answer": "Hi there! What would you like to know?"
+        },
+        {
+            "question": "hey",
+            "answer": "Hey! Need any help?"
+        },
+        {
+            "question": "bye",
+            "answer": "Goodbye! Have a great day! 👋"
+        },
+        {
+            "question": "Goodbye",
+            "answer": "Goodbye! Have a great day! 👋"
+        },
+        {
+            "question": "exit",
+            "answer": "Alright, closing the chat. Have a great day! 😊"
+        },
+        {
+            "question": "quit",
+            "answer": "See you later! If you need help, just ask!"
+        },
+        {
+            "question": "good morning",
+            "answer": "Good morning! How can I assist you today?"
+        },
+        {
+            "question": "good night",
+            "answer": "Good night! Have a restful sleep. 🌙"
+        },
+        {
+            "question": "thank you",
+            "answer": "You're welcome! 😊 Let me know if you need anything else."
+        },
+        {
+            "question": "what is the establishment year of the Computer Science department?",
+            "answer": "The Computer Science and application department in K. T. H. M. College was established in the year 1986."
+        },
+        {
+            "question": "what is the start year Computer Science department?",
+            "answer": "The Computer Science and application department in K. T. H. M. College was established in the year 1986."
+        },
+        {
+            "question": "which are the courses offered by the Computer Science department?",
+            "answer": "The department offers B.Sc.(Computer Science), M.Sc.(Computer Science), B.Sc(Computer Application),M.Sc(Computer Application). and B.Sc.(Cyber and Digital Science)"
+        },
+        {
+            "question": "What are the PG courses offered by the CS department at KTHM College?",
+            "answer": "The CS department offers M.Sc (CS) and M.Sc (CA) as PG courses."
+          },
+          {
+            "question": "What is the eligibility criteria for admission to the M.Sc (CS) program?",
+            "answer": "Candidates must have a bachelor's degree in Computer Science or a related field to be eligible for M.Sc (CS)."
+          },
+          {
+            "question": "Can a student with a B.Sc (CS) degree apply for M.Sc (CS) at KTHM College?",
+            "answer": "Yes, students with a B.Sc (CS) degree are eligible to apply for M.Sc (CS)."
+          },
+          {
+            "question": "Is a BCA degree acceptable for admission to the M.Sc (CS) course?",
+            "answer": "Yes, students with a BCA degree may also apply for M.Sc (CS), depending on the specific eligibility requirements."
+          },
+          {
+            "question": "What is the eligibility criteria for admission to the M.Sc (CA) program?",
+            "answer": "Candidates must have a bachelor's degree in Computer Applications (BCA) or a related field to be eligible for M.Sc (CA)."
+          },
+          {
+            "question": "Can students with a B.Sc (CA) degree apply for M.Sc (CA)?",
+            "answer": "Yes, students with a B.Sc (CA) degree are eligible to apply for M.Sc (CA)."
+          },
+          {
+            "question": "What is the difference between M.Sc (CS) and M.Sc (CA)?",
+            "answer": "M.Sc (CS) focuses on advanced computer science concepts, while M.Sc (CA) emphasizes computer applications and software development."
+          },
+          {
+            "question": "Do M.Sc (CS) and M.Sc (CA) require entrance exams for admission?",
+            "answer": "Admission requirements, including entrance exams, depend on the college and university regulations. Check with KTHM College for specifics."
+          },
+          {
+            "question": "What subjects are typically required for eligibility to M.Sc (CS) or M.Sc (CA)?",
+            "answer": "A bachelor's degree in Computer Science, Computer Applications, or a related field is required for both courses."
+          },
+          {
+            "question": "Are there any reservations or quotas for admission to M.Sc (CS) or M.Sc (CA) at KTHM College?",
+            "answer": "Details on reservations or quotas depend on college policies and government regulations. Check with KTHM College for specific details."
+          },
+          {
+            "question": "Can non-CS graduates apply for M.Sc (CS) or M.Sc (CA) programs?",
+            "answer": "Non-CS graduates may apply if they meet the required prerequisites, such as foundational courses in computer science."
+          },
+          {
+            "question": "What are the eligibility criteria for admission to the B.Sc (CS) course at KTHM College?",
+            "answer": "Candidates need to have completed 12+2 HSC with Mathematics as a subject."
+          },
+          {
+            "question": "Can I apply for the B.Sc (CS) course without having Mathematics in 12+2 HSC?",
+            "answer": "No, Mathematics is mandatory for admission to the B.Sc (CS) course."
+          },
+          {
+            "question": "What are the eligibility criteria for admission to the B.Sc (CA) course?",
+            "answer": "Candidates need to have completed 12+2 HSC, and Mathematics is optional for this course."
+          },
+          {
+            "question": "Is Mathematics required for admission to the B.Sc (CA) course?",
+            "answer": "No, Mathematics is not mandatory for admission to the B.Sc (CA) course."
+          },
+          {
+            "question": "What is the eligibility for the B.Sc (CDS) course?",
+            "answer": "Candidates need to have completed 12+2 HSC to apply for the B.Sc (CDS) course."
+          },
+          {
+            "question": "Are there any specific subjects required for B.Sc (CDS) admission?",
+            "answer": "No specific subjects like Mathematics are required for B.Sc (CDS) admission."
+          },
+          {
+            "question": "Which courses in the CS department require Mathematics at the 12+2 HSC level?",
+            "answer": "The B.Sc (CS) course requires Mathematics."
+          },
+          {
+            "question": "Can students without Mathematics in 12+2 HSC apply for any CS department courses?",
+            "answer": "Yes, students without Mathematics can apply for the B.Sc (CA) and B.Sc (CDS) courses."
+          },
+          {
+            "question": "What are the differences in eligibility between B.Sc (CS), B.Sc (CA), and B.Sc (CDS)?",
+            "answer": "B.Sc (CS) requires Mathematics at 12+2 HSC, B.Sc (CA) does not require Mathematics, and B.Sc (CDS) has no specific subject requirements."
+          },
+          {
+            "question": "What courses are offered by the CS department at KTHM College?",
+            "answer": "The CS department offers B.Sc (CS), B.Sc (CA), and B.Sc (CDS) courses."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the fees structure for FYB.Sc (CS) at KTHM College?",
+            "answer": "The fees for FYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
+          },
+          {
+            "question": "What is the fees structure for SYB.Sc (CS) at KTHM College?",
+            "answer": "The fees for SYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
+          },
+          {
+            "question": "What is the fees structure for TYB.Sc (CS) at KTHM College?",
+            "answer": "The fees for TYB.Sc (CS) is ₹35,305/- or up to ₹36,000/-."
+          },
+          {
+            "question": "What is the fees structure for M.Sc (CS) Part-I at KTHM College?",
+            "answer": "The fees for M.Sc (CS) Part-I is ₹53,000/- or up to ₹54,000/-."
+          },
+          {
+            "question": "What is the fees structure for M.Sc (CS) Part-II at KTHM College?",
+            "answer": "The fees for M.Sc (CS) Part-II is ₹53,000/- or up to ₹54,000/-."
+          },
+          {
+            "question": "Is the fees structure for all years of B.Sc (CS) the same?",
+            "answer": "Yes, the fees structure for FYB.Sc, SYB.Sc, and TYB.Sc (CS) is the same, ranging from ₹35,305/- to ₹36,000/-."
+          },
+          {
+            "question": "Does the fees for M.Sc (CS) differ between Part-I and Part-II?",
+            "answer": "No, the fees for M.Sc (CS) Part-I and Part-II are the same, ranging from ₹53,000/- to ₹54,000/-."
+          },
+          {
+            "question": "Are there any additional charges included in the fees structure for UG or PG courses?",
+            "answer": "Additional charges, if any, are included in the total fees. Contact the college for a detailed breakdown."
+          },
+          {
+            "question": "Are there any fee concessions available for UG or PG courses in the CS department?",
+            "answer": "Fee concessions may be available based on eligibility. Contact the college administration for more details."
+          },
+          {
+            "question": "Can fees for B.Sc (CS) or M.Sc (CS) be paid in installments?",
+            "answer": "Installment options may be available. Check with the college administration for payment plans."
+          },
+          {
+            "question": "Are the fees structures for B.Sc (CS) and M.Sc (CS) the same for all students?",
+            "answer": "The fees structure may vary for reserved and non-reserved categories. Contact the college for specific details."
+          },
+          {
+            "question": "Are scholarships available to cover the fees for B.Sc (CS) or M.Sc (CS)?",
+            "answer": "Yes, scholarships may be available based on merit or financial need. Students should check the college's scholarship programs."
+          },
+          {
+            "question": "What is the total cost of completing a B.Sc (CS) degree at KTHM College?",
+            "answer": "The total cost of completing a B.Sc (CS) degree is approximately ₹1,05,915/- to ₹1,08,000/- over three years."
+          },
+          {
+            "question": "What is the total cost of completing an M.Sc (CS) degree at KTHM College?",
+            "answer": "The total cost of completing an M.Sc (CS) degree is approximately ₹1,06,000/- to ₹1,08,000/- over two years."
+          },
+          {
+            "question": "Are late payment penalties applicable for fees in the CS department?",
+            "answer": "Late payment penalties, if applicable, depend on the college policies. Students should confirm this with the administration."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CA) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CA) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CDS) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CDS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire M.Sc (CS) course (two years) at KTHM College?",
+            "answer": "The total fees for the entire M.Sc (CS) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire M.Sc (CA) course (two years) at KTHM College?",
+            "answer": "The total fees for the entire M.Sc (CA) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+          },
+    {
+      "question": "What is the duration of the B.Sc (CS) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CS) course is three years."
+    },
+    {
+      "question": "What is the duration of the B.Sc (CA) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CA) course is three years."
+    },
+    {
+      "question": "What is the duration of the B.Sc (CDS) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CDS) course is three years."
+    },
+    {
+      "question": "What is the duration of the M.Sc (CS) course at KTHM College?",
+      "answer": "The duration of the M.Sc (CS) course is two years."
+    },
+    {
+      "question": "What is the duration of the M.Sc (CA) course at KTHM College?",
+      "answer": "The duration of the M.Sc (CA) course is two years."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CA) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CA) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CDS) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CDS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire M.Sc (CS) course (two years) at KTHM College?",
+      "answer": "The total fees for the entire M.Sc (CS) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire M.Sc (CA) course (two years) at KTHM College?",
+      "answer": "The total fees for the entire M.Sc (CA) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the duration of the B.Sc (CS) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CS) course is three years."
+    },
+    {
+      "question": "What is the duration of the B.Sc (CA) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CA) course is three years."
+    },
+    {
+      "question": "What is the duration of the B.Sc (CDS) course at KTHM College?",
+      "answer": "The duration of the B.Sc (CDS) course is three years."
+    },
+    {
+      "question": "What is the duration of the M.Sc (CS) course at KTHM College?",
+      "answer": "The duration of the M.Sc (CS) course is two years."
+    },
+    {
+      "question": "What is the duration of the M.Sc (CA) course at KTHM College?",
+      "answer": "The duration of the M.Sc (CA) course is two years."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CA) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CA) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire B.Sc (CDS) course (three years) at KTHM College?",
+      "answer": "The total fees for the entire B.Sc (CDS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire M.Sc (CS) course (two years) at KTHM College?",
+      "answer": "The total fees for the entire M.Sc (CS) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+    },
+    {
+      "question": "What is the total fee structure for the entire M.Sc (CA) course (two years) at KTHM College?",
+      "answer": "The total fees for the entire M.Sc (CA) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+    },
+          {
+            "question": "What is the duration of the B.Sc (CS) course at KTHM College?",
+            "answer": "The duration of the B.Sc (CS) course is three years."
+          },
+          {
+            "question": "What is the duration of the B.Sc (CA) course at KTHM College?",
+            "answer": "The duration of the B.Sc (CA) course is three years."
+          },
+          {
+            "question": "What is the duration of the B.Sc (CDS) course at KTHM College?",
+            "answer": "The duration of the B.Sc (CDS) course is three years."
+          },
+          {
+            "question": "What is the duration of the M.Sc (CS) course at KTHM College?",
+            "answer": "The duration of the M.Sc (CS) course is two years."
+          },
+          {
+            "question": "What is the duration of the M.Sc (CA) course at KTHM College?",
+            "answer": "The duration of the M.Sc (CA) course is two years."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CA) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CA) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire B.Sc (CDS) course (three years) at KTHM College?",
+            "answer": "The total fees for the entire B.Sc (CDS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire M.Sc (CS) course (two years) at KTHM College?",
+            "answer": "The total fees for the entire M.Sc (CS) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+          },
+          {
+            "question": "What is the total fee structure for the entire M.Sc (CA) course (two years) at KTHM College?",
+            "answer": "The total fees for the entire M.Sc (CA) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+          },
+        {
+            "question": "website for admission",
+            "answer": "https://mvperp.org/#/home-page  - copy the URL and paste it in your browser's search bar and follow the procedure mentioned over website"
+        },
+        {
+            "question": "The E-Learning portal of College",
+            "answer": " https://kthmelearning.in/- copy the URL and paste it in your browser's search bar"
+        },
+        {
+            "question": "The E-Content of College",
+            "answer": " https://www.youtube.com/c/kthmcollegeelearning - copy the URL and paste it in your browser's search bar"
+        },
+        {
+            "question": "What is the eligibility criteria for admission to the M.Sc.(Computer Science) program?",
+            "answer": "To be eligible for M.Sc. (Computer Science), a candidate must have \n1)B.Sc. (Computer Science) with 50% marks (45% for reserved category) \n(2) Bachelor of Engineering (B.E.) in Computer Science, Information Technology, or Electronic Telecommunication with 50% marks."
+        },
+        {
+            "question": "which are the other courses offered by the Computer Science department?",
+            "answer": "The department offers Introduction to cyber security,Democracy and governance,Human Rights,Skill Development Courses and MOOC Courses."
+        },
+        {
+            "question": "What are the key facilities available in the Computer Science department?",
+            "answer": "The department has modern computer labs, high-speed internet, smart classrooms, and a dedicated research center."
+        },
+        {
+            "question": "What types of extracurricular activities are conducted in the department?",
+            "answer": "The department organizes coding competitions, hackathons, workshops, industrial visits, and technical seminars."
+        },
+        {
+            "question": "What are the career opportunities for students in the Computer Science department?",
+            "answer": "Graduates can pursue careers in software development, data science, cybersecurity, artificial intelligence, and IT consulting."
+        },
+        {
+            "question": "How does the department support students in placements?",
+            "answer": "The department collaborates with top IT companies for campus placements, conducts mock interviews, and provides internship opportunities."
+        },
+        {
+            "question": "companies which held placements?",
+            "answer": "for campus placements The department collaborates with top IT companies like, TCS, Livestrong Technologies,Application Nexus,Decimal Point,EagleByte,Sumago Infotech,Emerging Technologies,Infosys,Netwin,Wipro,Aloha Technology,Winjit,Hexaware Technologies,CogniFront"
+        },
+        {
+            "question": "What is the student-to-faculty ratio in the department?",
+            "answer": "The department maintains a healthy student-to-faculty ratio to ensure personalized attention and quality education."
+        },
+        {
+            "question": "What programming languages are taught in the Computer Science department?",
+            "answer": "The curriculum covers languages like Java, Python, C, C++, JavaScript, and SQL, among others."
+        },
+        {
+            "question": "Does the department provide research opportunities for students?",
+            "answer": "Yes, students can engage in research projects, present papers at conferences, and work with faculty on innovative projects."
+        },
+        {
+            "question": "How does the department stay updated with the latest technology trends?",
+            "answer": "The department regularly updates its curriculum, collaborates with industry experts, and encourages students to participate in tech events."
+        },
+        {
+            "question": "what programs does department offer?",
+            "answer": "The Computer Science and application Department at K.T.H.M. College, Nashik, was established in 1986. It offers various programs, including: 1) Undergraduate (UG) Courses: B.Sc. (Computer Science), B.Sc( Computer Application), B.Sc (Cyber and Digital Science) 2) Postgraduate (PG) Courses: M.Sc. (Computer Science), M.Sc. (Computer Application) 3) Certificate Courses: Cisco Certified Network Associate (CCNA), Additional 10-credit courses for PG students."
+        },
+        {
+            "question": "What research and publication contributions has the department made?",
+            "answer": "The Computer Science Department has been actively involved in research and publications. Some notable contributions include: - Dr. R.A. Patil: 30 research papers (26 international + 4 conference proceedings) - K.D. More: 7 research papers - R.S. Kapse: 5 research papers (4 international + 1 national) Additionally, faculty members have participated in various research projects and academic contributions."
+        },
+        {
+            "question": "What is the student-teacher ratio in the Computer Science Department?",
+            "answer": "The student-teacher ratio varies across programs: B.Sc. (Computer Science): 21:1 B.C.A. (Science): 24:1 B.Sc. (Cyber & Digital Science): 4:1 M.Sc. (Computer Science): 9:1 M.Sc. (Computer Application): 8:1 The department maintains a balanced student-to-teacher ratio to ensure effective learning."
+        },
+        {
+            "question": "What placement opportunities are available for students?",
+            "answer": "The department has an active Training and Placement Cell, with 100% internship placements for M.Sc. (CS) and M.Sc. (CA) students in IT industries. - 30-40% of PG students get campus placements - 35-40% of students secure jobs outside campus recruitment - Companies collaborate with the department to offer projects and hiring opportunities for students."
+        },
+        {
+            "question": "What infrastructure and facilities does the Computer Science Department provide?",
+            "answer": "The department is well-equipped with modern facilities, including: - 06 Laboratories with 165 PCs and 5 Servers - 07 Classrooms with ICT Facilities + 01 Seminar Hall - 571 Books in the departmental library -1776 Books in the central library - 145 Internet Nodes for staff and students These facilities ensure an advanced learning environment for students."
+        },
+        {
+            "question": "How many computer labs are available in computer science department?",
+            "answer": "Total 6 computer labs are available for the computer science department."
+        },
+        {
+            "question": "Which courses are offered by computer science department at KTHM college?",
+            "answer": "The courses offered by the computer science and application department at KTHM college are for UG: B.Sc. (Comp. Sci.), B.C.A (Science), B.Sc (Cyber and Digital Science), and for PG: M.Sc. (Comp. Sci.), M.Sc. (Comp. Application)"
+        },
+        {
+            "question": "What is eligibility criteria for B.Sc Computer Science?",
+            "answer": "The eligibility criteria for B.Sc Computer Science is: (a) Higher Secondary School Certificate (10+2) Science Stream with Mathematics or its equivalent examination OR (b) Direct Admission to Second Year for students who have completed: Three Years Diploma Course, after S.S.C. (10th standard) of Board of Technical Education conducted by Government of Maharashtra or its equivalent."
+        },
+        {
+            "question": "What is eligibility criteria for B.Sc Cyber and Digital Science or BSc(CDS)?",
+            "answer": "The eligibility criteria for B.Sc Cyber and Digital Science is: a) Higher Secondary School Certificate (10+2) or its equivalent examination with English OR b) Three-year diploma course from the board of technical education conducted by Government of Maharashtra or its equivalent OR c) Higher secondary school certificate (10+2) Examination with English and a vocational subject of +2 level (MCVC)"
+        },
+        {
+            "question": "Which programs require need a Higher Secondary School Certificate (10+2) 12th for admission?",
+            "answer": "B.Sc. (Computer Science), B.C.A. (Science), and B.Sc. (Cyber and Digital Science) require 10+2 qualification."
+        },
+        {
+            "question": "Which subject is required for admission to B.Sc. (Computer Science)?",
+            "answer": "Students must have Mathematics as a subject in 10+2 (Science stream)."
+        },
+        {
+            "question": "What is the minimum percentage required for M.Sc. (Computer Science) admission?",
+            "answer": "The minimum requirement is 50% for general category and 45% for reserved category students."
+        },
+        {
+            "question": "How many subjects are for FYBSc(CS)?",
+            "answer": "The total number of subjects offered in the course for FYBSc(CS) - 8 Theory and 4 Practicals "
+        },
+        {
+            "question": "How many subjects are for SYBSc(CS)?",
+            "answer": "The total number of subjects offered in the course for SYBSc(CS) - 8 Theory and 3 Practicals."
+        },
+        {
+            "question": "How many subjects are for TYBSc(CS)?",
+            "answer": "The total number of subjects offered in the course for TYBSc(CS) - 8 Theory and 3 Practicals."
+        },
+        {
+            "question": "How many subjects are for FYBSc(CA)?",
+            "answer": "The total number of subjects offered in the course for FYBSc(CA) - 4 Theory and 4 Practicals "
+        },
+        {
+            "question": "How many subjects are for SYBSc(CA)?",
+            "answer": "The total number of subjects offered in the course for SYBSc(CA) - 5 Theory and 3 Practicals."
+        },
+        {
+            "question": "How many subjects are for TYBSc(CA)?",
+            "answer": "The total number of subjects offered in the course for TYBSc(CA) - 5 Theory and 3 Practicals."
+        },
+        {
+            "question": "How many subjects are for FYBSc(CDS)?",
+            "answer": "The total number of subjects offered in the course for FYBSc(CDS) - 4 Theory and 4 Practicals "
+        },
+        {
+            "question": "How many subjects are for SYBSc(CDS)?",
+            "answer": "The total number of subjects offered in the course for SYBSc(CDS) - 5 Theory and 3 Practicals."
+        },
+        {
+            "question": "How many subjects are for TYBSc(CDS)?",
+            "answer": "The total number of subjects offered in the course for TYBSc(CDS) - 5 Theory and 3 Practicals."
+        },
+        {
+            "question": "What are some career opportunities after completing a course from the Computer Science department?",
+            "answer": "Career opportunities include Software Developer, Network Engineer, Web Developer, Data Analyst, IT Consultant, Cybersecurity Expert, Artificial Intelligence Engineer, Research Analyst and lot more than this."
+        },
+        {
+            "question": "Which programming languages are part of the curriculum in the Computer Science Department?",
+            "answer": "The curriculum includes Java, Python, C, C++, and SQL, among other technologies."
+        },
+        {
+            "question": "Can I get a scholarship for the Computer Science programs?",
+            "answer": "The department offers government scholarship programs available for eligible categories."
+        },
+        {
+            "question": "Is there a hostel facility available for students?",
+            "answer": "Yes, the college provides hostel facilities for both male and female students, subject to availability."
+        },
+        {
+            "question": "How do I apply for the Computer Science programs?",
+            "answer": "You can apply for the programs through the official college website or through the centralized admission process as per the guidelines from the Government of Maharashtra."
+        },
+        {
+            "question": "How can I take admission for the Computer Science programs?",
+            "answer": "You can apply for the programs through the official college website or through the centralized admission process as per the guidelines from the Government of Maharashtra."
+        },
+        {
+            "question": "Are there any short-term certification courses available?",
+            "answer": "Yes, the department offers short-term certification courses, including Cisco Certified Network Associate (CCNA) and other skill development programs."
+        },
+              {
+                "question": "What is the duration of the B.Sc (CS) course at KTHM College?",
+                "answer": "The duration of the B.Sc (CS) course is three years."
+              },
+              {
+                "question": "What is the duration of the B.Sc (CA) course at KTHM College?",
+                "answer": "The duration of the B.Sc (CA) course is three years."
+              },
+              {
+                "question": "What is the duration of the B.Sc (CDS) course at KTHM College?",
+                "answer": "The duration of the B.Sc (CDS) course is three years."
+              },
+              {
+                "question": "What is the duration of the M.Sc (CS) course at KTHM College?",
+                "answer": "The duration of the M.Sc (CS) course is two years."
+              },
+              {
+                "question": "What is the duration of the M.Sc (CA) course at KTHM College?",
+                "answer": "The duration of the M.Sc (CA) course is two years."
+              },
+              {
+                "question": "What is the total fee structure for the entire B.Sc (CS) course (three years) at KTHM College?",
+                "answer": "The total fees for the entire B.Sc (CS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+              },
+              {
+                "question": "What is the total fee structure for the entire B.Sc (CA) course (three years) at KTHM College?",
+                "answer": "The total fees for the entire B.Sc (CA) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+              },
+              {
+                "question": "What is the total fee structure for the entire B.Sc (CDS) course (three years) at KTHM College?",
+                "answer": "The total fees for the entire B.Sc (CDS) course over three years is approximately ₹1,05,915/- to ₹1,08,000/-."
+              },
+              {
+                "question": "What is the total fee structure for the entire M.Sc (CS) course (two years) at KTHM College?",
+                "answer": "The total fees for the entire M.Sc (CS) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+              },
+              {
+                "question": "What is the total fee structure for the entire M.Sc (CA) course (two years) at KTHM College?",
+                "answer": "The total fees for the entire M.Sc (CA) course over two years is approximately ₹1,06,000/- to ₹1,08,000/-."
+              },
+              {
+                "question": "What curriculum is followed for FYB.Sc (CS) at KTHM College?",
+                "answer": "The FYB.Sc (CS) follows the NEP (National Education Policy) curriculum."
+              },
+              {
+                "question": "What curriculum is followed for SYB.Sc (CS) at KTHM College?",
+                "answer": "The SYB.Sc (CS) follows the CBSE (Choice Based Credit System) curriculum."
+              },
+              {
+                "question": "What curriculum is followed for TYB.Sc (CS) at KTHM College?",
+                "answer": "The TYB.Sc (CS) follows the CBSE (Choice Based Credit System) curriculum."
+              },
+              {
+                "question": "What curriculum is followed for M.Sc (CS) Part-I at KTHM College?",
+                "answer": "The M.Sc (CS) Part-I follows the NEP (National Education Policy) curriculum."
+              },
+              {
+                "question": "What curriculum is followed for M.Sc (CS) Part-II at KTHM College?",
+                "answer": "The M.Sc (CS) Part-II follows the NEP (National Education Policy) curriculum."
+              },
+              {
+                "question": "Is the NEP curriculum applicable to all years of B.Sc (CS)?",
+                "answer": "No, the NEP curriculum is applicable only to FYB.Sc (CS), while SYB.Sc and TYB.Sc follow the CBSE curriculum."
+              },
+              {
+                "question": "Is the NEP curriculum applicable to both years of M.Sc (CS)?",
+                "answer": "Yes, the NEP curriculum is applicable to both Part-I and Part-II of M.Sc (CS)."
+              },
+              {
+                "question": "What is the difference between the NEP and CBSE curricula for B.Sc (CS)?",
+                "answer": "The NEP (National Education Policy) curriculum emphasizes flexibility and interdisciplinary studies, while the CBSE (Choice Based Credit System) curriculum focuses on fixed credit-based modules."
+              },
+              {
+                "question": "Which curriculum applies to the first year of M.Sc (CS) at KTHM College?",
+                "answer": "The first year of M.Sc (CS) at KTHM College follows the NEP (National Education Policy) curriculum."
+              },
+              {
+                "question": "When was the B.Sc (CS) course started at KTHM College?",
+                "answer": "The B.Sc (CS) course was started in 1986."
+              },
+              {
+                "question": "When was the B.Sc (CA) course started at KTHM College?",
+                "answer": "The B.Sc (CA) course was started in 2016."
+              },
+              {
+                "question": "When was the B.Sc (CDS) course started at KTHM College?",
+                "answer": "The B.Sc (CDS) course was started in 2022."
+              },
+              {
+                "question": "When was the M.Sc (CS) course started at KTHM College?",
+                "answer": "The M.Sc (CS) course was started in 1990."
+              },
+              {
+                "question": "When was the M.Sc (CA) course started at KTHM College?",
+                "answer": "The M.Sc (CA) course was started in 2019."
+              },
+              {
+                "question": "Which was the first undergraduate course introduced in the CS department at KTHM College?",
+                "answer": "The first undergraduate course introduced was B.Sc (CS) in 1986."
+              },
+              {
+                "question": "Which was the most recently introduced undergraduate course in the CS department at KTHM College?",
+                "answer": "The most recently introduced undergraduate course is B.Sc (CDS), started in 2022."
+              },
+              {
+                "question": "Which postgraduate course in the CS department at KTHM College was introduced first?",
+                "answer": "The M.Sc (CS) course was the first postgraduate course introduced in 1990."
+              },
+              {
+                "question": "Which postgraduate course in the CS department at KTHM College was introduced most recently?",
+                "answer": "The M.Sc (CA) course was the most recently introduced postgraduate course, started in 2019."
+              },
+              {
+                "question": "What is the gap between the introduction of the B.Sc (CS) and M.Sc (CS) courses at KTHM College?",
+                "answer": "The gap between the introduction of B.Sc (CS) and M.Sc (CS) is four years, with B.Sc (CS) starting in 1986 and M.Sc (CS) in 1990."
+              },
+              {
+                "question": "What life skills support does the CS department at KTHM College provide to students?",
+                "answer": "The CS department provides life skills training to help students develop essential abilities for managing personal and professional challenges."
+              },
+              {
+                "question": "What type of language and communication skills support is offered by the CS department at KTHM College?",
+                "answer": "The department offers language and communication skills sessions to enhance students' proficiency in verbal and written communication."
+              },
+              {
+                "question": "What technical sessions are provided by the CS department at KTHM College?",
+                "answer": "The department conducts technical sessions to improve students' understanding of current technologies and technical concepts relevant to the field."
+              },
+              {
+                "question": "How does the CS department at KTHM College support students in developing soft skills?",
+                "answer": "The department organizes soft skills training to help students improve interpersonal skills, teamwork, adaptability, and emotional intelligence."
+              },
+              {
+                "question": "Does the CS department at KTHM College provide training for effective communication in professional settings?",
+                "answer": "Yes, the department provides training in language and communication skills to prepare students for professional interactions."
+              },
+              {
+                "question": "What is the focus of life skills training provided by the CS department at KTHM College?",
+                "answer": "The focus of life skills training is to equip students with critical thinking, decision-making, time management, and problem-solving abilities."
+              },
+              {
+                "question": "Are there any technical workshops conducted by the CS department to support students' academic growth?",
+                "answer": "Yes, the department organizes technical workshops and sessions to enhance students' academic and practical knowledge."
+              },
+              {
+                "question": "How does the CS department prepare students for real-world challenges?",
+                "answer": "The department offers a combination of life skills, soft skills, technical sessions, and communication training to prepare students for real-world challenges."
+              },
+              {
+                "question": "What are the key areas covered under student support services in the CS department at KTHM College?",
+                "answer": "The key areas covered include life skills, language and communication skills, technical sessions, and soft skills training."
+              },
+              {
+                "question": "Does the CS department at KTHM College focus on improving students' employability skills?",
+                "answer": "Yes, through life skills, soft skills, and technical training, the department aims to enhance students' employability and career readiness."
+              },
+              {
+                "question": "Does the CS department at KTHM College offer placement assistance to students?",
+                "answer": "Yes, the CS department provides placement assistance to help students secure jobs in reputed companies."
+              },
+              {
+                "question": "Which companies visit KTHM College for placements in the CS department?",
+                "answer": "Reputed IT and software companies regularly visit KTHM College for campus placements in the CS department."
+              },
+              {
+                "question": "What kind of placement support is provided to students in the CS department?",
+                "answer": "The department offers support such as pre-placement training, mock interviews, and resume-building workshops."
+              },
+              {
+                "question": "What is the average placement rate for students in the CS department at KTHM College?",
+                "answer": "The CS department has a strong placement record, with a high percentage of students placed in leading companies each year."
+              },
+              {
+                "question": "Are internships included as part of the placement process in the CS department?",
+                "answer": "Yes, the CS department also helps students secure internships as part of their professional growth and career readiness."
+              },
+              {
+                "question": "What roles are offered to CS department students during placements at KTHM College?",
+                "answer": "Roles such as software developer, data analyst, system administrator, and web developer are commonly offered to students."
+              },
+              {
+                "question": "Does the CS department conduct pre-placement training programs for students?",
+                "answer": "Yes, the department conducts pre-placement training programs to prepare students for interviews and technical tests."
+              },
+              {
+                "question": "What is the highest package offered during placements in the CS department at KTHM College?",
+                "answer": "The highest package varies each year, depending on the company and role offered during campus placements."
+              },
+              {
+                "question": "How does the CS department maintain relationships with companies for placements?",
+                "answer": "The department collaborates with companies through regular interactions, alumni networks, and placement drives."
+              },
+              {
+                "question": "Is there a placement cell in the CS department at KTHM College?",
+                "answer": "Yes, the college has a dedicated placement cell that assists students in the CS department with placement activities."
+              },
+              {
+                "question": "Are students provided training in aptitude and technical skills for placements in the CS department?",
+                "answer": "Yes, students receive training in aptitude, technical skills, and soft skills to excel in placement processes."
+              },
+              {
+                "question": "Does the CS department at KTHM College help students with off-campus placement opportunities?",
+                "answer": "Yes, the department also shares off-campus placement opportunities to help students explore additional job prospects."
+              },
+              {
+                "question": "What is the typical recruitment process for companies visiting KTHM College for CS placements?",
+                "answer": "The recruitment process generally includes aptitude tests, technical interviews, and HR interviews."
+              },
+              {
+                "question": "Does the CS department track placement success for its alumni?",
+                "answer": "Yes, the department keeps track of alumni placements and their professional achievements to strengthen the placement network."
+              },
+              {
+                "question": "What is the overall placement rate for the CS department at KTHM College over the last 5 years?",
+                "answer": "The overall placement rate for the CS department has been consistently high, showcasing strong support and industry connections."
+              },
+              {
+                "question": "Which companies have recruited students from the CS department at KTHM College in the last 5 years?",
+                "answer": "Top companies such as TCS, Infosys, Wipro, Capgemini, and Cognizant have recruited students over the past 5 years."
+              },
+              {
+                "question": "What is the average salary package offered to CS department students in the last 5 years?",
+                "answer": "The average salary package has been in the range of 3.5 LPA to 6 LPA, depending on the company and role."
+              },
+              {
+                "question": "What is the highest package offered to CS department students at KTHM College in the last 5 years?",
+                "answer": "The highest package offered in the last 5 years is around 10 LPA, provided by leading IT firms."
+              },
+              {
+                "question": "How many students from the CS department were placed each year in the last 5 years?",
+                "answer": "On average, 70–80% of eligible students were placed each year, with the exact number varying based on the batch size."
+              },
+              {
+                "question": "Has there been any improvement in placement rates for the CS department over the last 5 years?",
+                "answer": "Yes, there has been a noticeable improvement in placement rates, with more companies participating and offering diverse roles."
+              },
+              {
+                "question": "What kind of roles were offered to CS department students in the last 5 years?",
+                "answer": "Roles such as Software Developer, Data Analyst, System Administrator, Cloud Engineer, and Web Developer were commonly offered."
+              },
+              {
+                "question": "Which sectors have recruited CS department students at KTHM College in the last 5 years?",
+                "answer": "Sectors like IT, Software Development, Data Analytics, Cloud Computing, and E-Commerce have been prominent recruiters."
+              },
+              {
+                "question": "What is the trend in the number of recruiters visiting the CS department over the last 5 years?",
+                "answer": "The number of recruiters visiting the department has steadily increased, indicating growing trust in the college’s talent."
+              },
+              {
+                "question": "Are there any notable alumni from the CS department placed in the last 5 years?",
+                "answer": "Yes, many alumni have been placed in reputed companies and hold notable positions such as Team Leads, Project Managers, and Senior Developers."
+              },
+              {
+                "question": "What kind of support did the placement cell provide for students in the last 5 years?",
+                "answer": "The placement cell provided resume workshops, mock interviews, pre-placement talks, and guidance on technical and aptitude tests."
+              },
+              {
+                "question": "Did the CS department conduct any special placement drives in the last 5 years?",
+                "answer": "Yes, the department organized special placement drives in collaboration with key recruiters to ensure better opportunities for students."
+              },
+              {
+                "question": "How many students from the CS department secured internships leading to placements in the last 5 years?",
+                "answer": "A significant number of students secured internships, and many of them converted these opportunities into full-time placements."
+              },
+              {
+                "question": "What is the placement scenario for postgraduate students in the CS department over the last 5 years?",
+                "answer": "Postgraduate students have also been placed in reputed organizations with roles in research, development, and data analytics."
+              },
+              {
+                "question": "Has there been an increase in international placement offers for CS department students in the last 5 years?",
+                "answer": "Yes, there has been a slight increase in international placement offers, with companies providing opportunities in countries like the US and Canada."
+              },
+              {
+                "question": "What types of cultural events are organized at KTHM College?",
+                "answer": "KTHM College organizes events such as annual gatherings, festivals, talent shows, art exhibitions, and inter-collegiate competitions."
+              },
+              {
+                "question": "Does the CS department organize any specific cultural events for its students?",
+                "answer": "Yes, the CS department organizes cultural events such as tech fests, coding marathons, fresher's parties, and departmental gatherings."
+              },
+              {
+                "question": "When is the annual cultural festival conducted at KTHM College?",
+                "answer": "The annual cultural festival is usually conducted during the second semester, with dates announced in advance each year."
+              },
+              {
+                "question": "Are students encouraged to participate in cultural events at KTHM College?",
+                "answer": "Yes, students are highly encouraged to showcase their talents and actively participate in cultural events organized by the college."
+              },
+              {
+                "question": "What are some of the popular cultural events hosted by KTHM College?",
+                "answer": "Popular events include dance competitions, drama performances, musical evenings, fashion shows, and literary competitions."
+              },
+              {
+                "question": "Are there any inter-departmental cultural competitions at KTHM College?",
+                "answer": "Yes, inter-departmental competitions like debates, quizzes, and talent shows are frequently organized to foster camaraderie among students."
+              },
+              {
+                "question": "Does KTHM College celebrate traditional festivals as part of its cultural events?",
+                "answer": "Yes, festivals like Ganesh Chaturthi, Diwali, Holi, and Makar Sankranti are celebrated to promote cultural diversity and tradition."
+              },
+              {
+                "question": "Are alumni invited to participate in cultural events at KTHM College?",
+                "answer": "Yes, alumni are often invited to cultural events, especially during annual gatherings or special occasions."
+              },
+              {
+                "question": "Does KTHM College provide any awards or recognition for cultural achievements?",
+                "answer": "Yes, the college recognizes and rewards students for exceptional performances and contributions to cultural events."
+              },
+              {
+                "question": "Are cultural events at KTHM College open to the general public or only for students?",
+                "answer": "Most cultural events are for students and staff, but some major events, like the annual gathering, are open to the public."
+              },
+              {
+                "question": "Does the college provide resources or funding to organize cultural events?",
+                "answer": "Yes, the college provides resources, venues, and funding to ensure successful organization of cultural events."
+              },
+              {
+                "question": "How can students register to participate in cultural events at KTHM College?",
+                "answer": "Students can register through event coordinators, department heads, or online forms provided by the college."
+              },
+              {
+                "question": "What are the benefits of participating in cultural events at KTHM College?",
+                "answer": "Participating in cultural events helps students enhance their creativity, confidence, and teamwork while enriching their college experience."
+              },
+              {
+                "question": "Has KTHM College won any awards for its cultural events or performances?",
+                "answer": "Yes, KTHM College has received recognition in various inter-collegiate cultural competitions for outstanding performances."
+              },
+              {
+                "question": "Are there any clubs or committees at KTHM College dedicated to cultural activities?",
+                "answer": "Yes, the college has dedicated cultural clubs and committees that plan and manage various cultural events throughout the year."
+              },
+              {
+                "question": "What extra-curricular activities are organized by the CS department at KTHM College?",
+                "answer": "The CS department organizes activities such as training sessions at municipal schools and awareness drives about cybersecurity during events like Ganga Aarti."
+              },
+              {
+                "question": "What is the objective of training sessions conducted by the CS department at municipal schools?",
+                "answer": "The objective is to educate school students about basic computer skills, technology usage, and digital literacy."
+              },
+              {
+                "question": "How does KTHM College create awareness about cybersecurity at events like Ganga Aarti?",
+                "answer": "The college conducts informative sessions, distributes pamphlets, and uses interactive demonstrations to educate the public about online safety and cybersecurity practices."
+              },
+              {
+                "question": "Which students are involved in conducting training sessions at municipal schools?",
+                "answer": "Undergraduate and postgraduate students from the CS department participate in these sessions as part of community outreach programs."
+              },
+              {
+                "question": "What topics are covered in the cybersecurity awareness sessions organized by the CS department?",
+                "answer": "Topics include password safety, phishing scams, secure online transactions, and the importance of data privacy."
+              },
+              {
+                "question": "Are these extra activities part of the curriculum at KTHM College?",
+                "answer": "No, these activities are not part of the formal curriculum but are conducted as part of community service and outreach programs."
+              },
+              {
+                "question": "How do these activities benefit students at KTHM College?",
+                "answer": "These activities help students develop communication skills, social responsibility, and practical knowledge by engaging with the community."
+              },
+              {
+                "question": "How often are training sessions conducted at municipal schools by the CS department?",
+                "answer": "The sessions are usually conducted periodically, depending on the availability of students and coordination with schools."
+              },
+              {
+                "question": "Who supervises the extra activities conducted by the CS department at KTHM College?",
+                "answer": "Faculty members from the CS department supervise and guide students during these activities."
+              },
+              {
+                "question": "Does KTHM College collaborate with other organizations for activities like cybersecurity awareness at Ganga Aarti?",
+                "answer": "Yes, the college occasionally collaborates with local authorities, NGOs, and cybersecurity experts for such initiatives."
+              },
+              {
+                "question": "What tools or materials are used during training sessions at municipal schools?",
+                "answer": "Basic computers, projectors, presentation slides, and educational booklets are used during the training sessions."
+              },
+              {
+                "question": "How is the success of activities like cybersecurity awareness drives measured?",
+                "answer": "The success is measured through public engagement, feedback, and the number of people reached during the awareness drives."
+              },
+              {
+                "question": "Have these activities received any recognition or appreciation for their impact?",
+                "answer": "Yes, the efforts of the CS department have been appreciated by local authorities, municipal schools, and event organizers for their positive community impact."
+              },
+              {
+                "question": "Are there any future plans to expand these extra activities by the CS department?",
+                "answer": "Yes, the department plans to include more schools, extend cybersecurity awareness to rural areas, and collaborate with tech companies for advanced workshops."
+              },
+              {
+                "question": "How can students volunteer for these extra activities conducted by the CS department?",
+                "answer": "Students can volunteer by contacting the activity coordinator or registering through departmental notices or online forms."
+              },
+              {
+                "question": "What is the evaluation process followed for undergraduate courses at KTHM College?",
+                "answer": "The evaluation process includes a combination of internal assessments, practical exams, assignments, and end-semester theory exams."
+              },
+              {
+                "question": "How are internal assessments conducted at KTHM College?",
+                "answer": "Internal assessments are conducted through periodic tests, quizzes, presentations, and assignments during the semester."
+              },
+              {
+                "question": "What is the weightage of internal assessments in the final grade at KTHM College?",
+                "answer": "Internal assessments typically carry 20–25% weightage, while the end-semester exams carry the remaining 75–80% weightage."
+              },
+              {
+                "question": "How are practical exams conducted for courses like B.Sc. (CS) and M.Sc. (CS)?",
+                "answer": "Practical exams are conducted in the college's computer labs, where students are required to perform tasks or solve problems related to their coursework."
+              },
+              {
+                "question": "What types of assignments are included in the evaluation process at KTHM College?",
+                "answer": "Assignments may include programming tasks, case studies, research-based reports, or technical write-ups depending on the course."
+              },
+              {
+                "question": "Are viva-voce or oral exams part of the evaluation process at KTHM College?",
+                "answer": "Yes, viva-voce exams are conducted as part of practical exams to assess students' understanding of the subject and their ability to explain concepts."
+              },
+              {
+                "question": "How are the end-semester exams structured at KTHM College?",
+                "answer": "End-semester exams typically consist of theory-based written papers that include a mix of short answers, long answers, and objective-type questions."
+              },
+              {
+                "question": "Are students allowed to view their evaluated answer sheets at KTHM College?",
+                "answer": "Yes, students can view their evaluated answer sheets by following the procedure outlined by the college, usually after results are declared."
+              },
+              {
+                "question": "How is attendance considered in the evaluation process at KTHM College?",
+                "answer": "Attendance is mandatory, and students with less than the required attendance percentage may lose marks or be barred from appearing in exams."
+              },
+              {
+                "question": "What is the process for re-evaluation of marks at KTHM College?",
+                "answer": "Students can apply for re-evaluation of their marks through an official request form and payment of a nominal fee."
+              },
+              {
+                "question": "Does KTHM College follow the Choice Based Credit System (CBCS) for evaluation?",
+                "answer": "Yes, the college follows CBCS, where students earn credits based on the completion of coursework and performance in assessments."
+              },
+              {
+                "question": "How are projects evaluated for courses like M.Sc. (CS) and M.Sc. (CA)?",
+                "answer": "Projects are evaluated based on the originality, quality of work, implementation, report, and a viva-voce conducted by faculty or external examiners."
+              },
+              {
+                "question": "Are there any remedial exams for students who fail at KTHM College?",
+                "answer": "Yes, remedial exams or supplementary exams are conducted for students who fail to clear their regular exams."
+              },
+              {
+                "question": "How is the evaluation process different for NEP and CBSE courses at KTHM College?",
+                "answer": "For NEP, the evaluation may include continuous assessments, whereas CBSE courses primarily follow a semester-end exam approach with internal assessments."
+              },
+              {
+                "question": "Is there any grading system followed for the evaluation process at KTHM College?",
+                "answer": "Yes, the college follows a grading system based on the marks scored, with grades assigned as per university guidelines."
+              },
+              {
+                "question": "What student-centric teaching methods are used at KTHM College?",
+                "answer": "KTHM College uses methods such as participative learning, group discussions, project-based learning, case studies, and hands-on practical sessions."
+              },
+              {
+                "question": "What is participative learning at KTHM College?",
+                "answer": "Participative learning involves activities where students actively engage in the learning process through group discussions, debates, collaborative projects, and peer teaching."
+              },
+              {
+                "question": "How does participative learning benefit students at KTHM College?",
+                "answer": "Participative learning enhances critical thinking, communication skills, teamwork, and problem-solving abilities, making students more confident and interactive."
+              },
+              {
+                "question": "What role do group discussions play in participative learning at KTHM College?",
+                "answer": "Group discussions encourage students to share ideas, analyze different perspectives, and build a deeper understanding of the subject."
+              },
+              {
+                "question": "Are case studies a part of the participative learning process at KTHM College?",
+                "answer": "Yes, case studies are used to provide real-world examples, enabling students to analyze and propose solutions collaboratively."
+              },
+              {
+                "question": "What types of projects are included in participative learning activities at KTHM College?",
+                "answer": "Projects include programming tasks, research-based assignments, presentations, and collaborative development of applications or models."
+              },
+              {
+                "question": "Does KTHM College conduct role-playing activities as part of participative learning?",
+                "answer": "Yes, role-playing activities are conducted to simulate real-life scenarios, helping students practice communication and decision-making skills."
+              },
+              {
+                "question": "How does KTHM College incorporate peer teaching into participative learning?",
+                "answer": "Peer teaching involves students explaining concepts to their classmates, fostering a better understanding of topics and improving teaching and learning skills."
+              },
+              {
+                "question": "What tools or technologies support participative learning at KTHM College?",
+                "answer": "The college uses smart classrooms, online collaborative tools, coding platforms, and project management software to facilitate participative learning."
+              },
+              {
+                "question": "How do faculty members encourage participative learning at KTHM College?",
+                "answer": "Faculty members encourage participative learning by assigning group tasks, moderating discussions, and creating a collaborative classroom environment."
+              },
+              {
+                "question": "Are hackathons or coding competitions a part of participative learning at KTHM College?",
+                "answer": "Yes, hackathons and coding competitions are organized to engage students in collaborative problem-solving and innovative thinking."
+              },
+              {
+                "question": "How is participative learning implemented in technical courses like B.Sc. (CS) and M.Sc. (CS)?",
+                "answer": "Participative learning in technical courses involves collaborative coding, pair programming, group projects, and discussions on algorithms or case studies."
+              },
+              {
+                "question": "Does KTHM College include community-based activities in participative learning?",
+                "answer": "Yes, activities like conducting training sessions at municipal schools and creating awareness about cybersecurity are part of community-based participative learning."
+              },
+              {
+                "question": "What assessment methods are used to evaluate participative learning outcomes at KTHM College?",
+                "answer": "Evaluation methods include presentations, group reports, peer reviews, and assessments of project outcomes or participation in discussions."
+              },
+              {
+                "question": "Are participative learning methods incorporated into extracurricular activities at KTHM College?",
+                "answer": "Yes, extracurricular activities like cultural events, technical fests, and community outreach programs involve participative learning elements."
+              },
+              {
+                "question": "What teaching methodologies are adopted by KTHM College?",
+                "answer": "KTHM College adopts methodologies such as traditional lectures, interactive sessions, group discussions, project-based learning, and technology-enabled teaching."
+              },
+              {
+                "question": "How does KTHM College use technology in the teaching-learning process?",
+                "answer": "The college integrates smart classrooms, online learning platforms, coding software, and video-based learning tools to enhance the teaching-learning process."
+              },
+              {
+                "question": "What role do practical sessions play in the teaching-learning process at KTHM College?",
+                "answer": "Practical sessions are crucial for applying theoretical knowledge, especially in courses like B.Sc. (CS), B.Sc. (CA), and M.Sc. (CS), where hands-on coding and lab work are emphasized."
+              },
+              {
+                "question": "How are students encouraged to participate actively in the teaching-learning process?",
+                "answer": "Students are encouraged through participative learning techniques such as group activities, case studies, brainstorming sessions, and collaborative projects."
+              },
+              {
+                "question": "What types of assignments are given to students at KTHM College?",
+                "answer": "Assignments include research-based tasks, coding exercises, real-world case studies, and presentations to ensure comprehensive learning."
+              },
+              {
+                "question": "How does KTHM College ensure continuous assessment in the teaching-learning process?",
+                "answer": "Continuous assessments are conducted through quizzes, internal tests, assignments, and practical evaluations throughout the semester."
+              },
+              {
+                "question": "Are online resources used to support the teaching-learning process at KTHM College?",
+                "answer": "Yes, online resources such as MOOCs, coding platforms, e-libraries, and video tutorials are used to supplement traditional teaching methods."
+              },
+              {
+                "question": "What is the role of guest lectures in the teaching-learning process at KTHM College?",
+                "answer": "Guest lectures by industry experts provide students with insights into the latest trends and practical knowledge beyond the curriculum."
+              },
+              {
+                "question": "How is project-based learning implemented in the teaching-learning process at KTHM College?",
+                "answer": "Students work on individual or group projects that solve real-world problems, promoting critical thinking and problem-solving skills."
+              },
+              {
+                "question": "What initiatives are taken to improve teaching quality at KTHM College?",
+                "answer": "Regular faculty development programs, workshops, and feedback from students help improve teaching quality."
+              },
+              {
+                "question": "How is the teaching-learning process personalized for students at KTHM College?",
+                "answer": "Faculty provide personalized guidance during mentoring sessions, remedial classes, and by addressing individual doubts and concerns."
+              },
+              {
+                "question": "What is the role of interdisciplinary teaching in the learning process at KTHM College?",
+                "answer": "Interdisciplinary teaching integrates concepts from multiple subjects, fostering a broader understanding of complex topics."
+              },
+              {
+                "question": "How does KTHM College handle challenges in the teaching-learning process for slow learners?",
+                "answer": "Slow learners are supported through remedial classes, peer mentoring, and additional learning resources."
+              },
+              {
+                "question": "How does KTHM College incorporate experiential learning in its teaching-learning process?",
+                "answer": "Experiential learning is incorporated through internships, live projects, industrial visits, and real-world problem-solving activities."
+              },
+              {
+                "question": "How does KTHM College evaluate the effectiveness of the teaching-learning process?",
+                "answer": "Effectiveness is evaluated through student feedback, performance in assessments, and success in placements or higher studies."
+              },
+              {
+                "question": "What is the role of flipped classrooms in the teaching-learning process at KTHM College?",
+                "answer": "Flipped classrooms are used to engage students in pre-class learning, with in-class sessions focused on discussions, problem-solving, and interactive activities."
+              },
+              {
+                "question": "Are there specific programs for faculty training at KTHM College?",
+                "answer": "Yes, faculty members undergo training programs, workshops, and seminars to enhance their teaching skills and stay updated with modern methodologies."
+              },
+              {
+                "question": "What measures are taken to ensure inclusivity in the teaching-learning process at KTHM College?",
+                "answer": "Inclusivity is ensured by addressing diverse learning needs, using assistive technologies, and fostering a supportive and non-discriminatory environment."
+              },
+              {
+                "question": "How does KTHM College integrate research into the teaching-learning process?",
+                "answer": "Research is integrated by encouraging students to undertake research projects, participate in conferences, and publish papers under faculty guidance."
+              },
+              {
+                "question": "What feedback mechanisms are in place for improving the teaching-learning process at KTHM College?",
+                "answer": "Student feedback, peer reviews, and self-assessments by faculty are used to refine and improve the teaching-learning process."
+              },
+              {
+                "question": "Who is the HOD / head of the department",
+                "answer":  "Dr. R.A. Patil,Education:M.C.S., Ph.D.,experience: 26 years,role:Head of Department, Computer Science, Responsibilities:Managing departmental activities, Curriculum planning and updates, Mentoring faculty and students,Encouraging research and development, Organizing workshops and industry collaborations"
+              }
+           
+          
+    ]
+}
