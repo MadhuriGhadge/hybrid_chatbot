@@ -8,3 +8,4 @@ streamlit
 textblob
 PyPDF2
 sentence_transformers
+transformers==4.37.2
