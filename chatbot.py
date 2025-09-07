@@ -1,3 +1,9 @@
+import os
+# Disable TensorFlow/Keras
+os.environ["USE_TF"] = "0"
+os.environ["USE_TORCH"] = "1"
+os.environ["USE_JAX"] = "0"
+
 import streamlit as st
 import json
 import PyPDF2
