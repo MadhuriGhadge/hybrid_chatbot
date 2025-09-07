@@ -1,11 +1,9 @@
-tensorflow
-pandas
-numpy
-scikit-learn
-tensorboard
-matplotlib
 streamlit
+pandas
+numpy<2
+scikit-learn
+sentence-transformers==3.0.1
 textblob
 PyPDF2
-sentence_transformers
+torch
 transformers==4.37.2
